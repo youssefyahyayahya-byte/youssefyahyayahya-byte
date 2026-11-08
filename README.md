@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./youssef-github-banner.png" width="100%" alt="Youssef Yahya IT Portfolio">
+</p>
 # Hi, I'm Youssef Yahya 👋
 
 ### IT Specialist | Network Support | Systems Administration
