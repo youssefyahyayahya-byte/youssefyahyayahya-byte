@@ -13,14 +13,28 @@ I’m also interested in software development and building practical solutions t
 
 ---
 
-## 🛠️ Technical Skills
 
-**IT & Infrastructure**
+## 🛠️ Technical Skills & Tools
+
+### IT & Infrastructure
 - IT Technical Support
 - Hardware & Software Troubleshooting
 - Windows Administration
-- Network Support & Troubleshooting
+- Network Support
 - IT Infrastructure
+
+### Technologies & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,git,github,vscode" />
+</p>
+
 
 **Development & Technologies**
 - JavaScript
